@@ -11,3 +11,5 @@ Match MultiObject makes match transformations on multiple objects by paired obje
 https://github.com/AlbertoGZ-dev/matchMultiObject_Blender/archive/refs/heads/master.zip
 
 2. Go to Blender Preferences, Add-ons section, just click on Install button then find and load matchMultiObject.zip file.
+
+3. Filter by Community then activate the Add-on.
