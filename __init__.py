@@ -12,11 +12,12 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 '''
-MatchTransforms MultiObject
+GZ_MatchTransforms
 
-Description: Match MultiObject makes match transformations on multiple 
-objects by paired objects given a first selection list for the origin 
-objects and second selection list to target objects.
+Description: GZ_MatchTransforms (A.K.A matchMultiObject) 
+makes match transformations on multiple objects by paired 
+objects given a first selection list for the origin objects 
+and second selection list to target objects.
 
 Author: AlbertoGZ
 albertogzonline@gmail.com
@@ -26,7 +27,7 @@ https://github.com/albertogz-dev
 
 
 bl_info = {
-    "name" : "MatchTransforms MultiObject -- by AlbertoGZ",
+    "name" : "GZ_MatchTransforms -- by AlbertoGZ",
     "author" : "AlbertoGZ",
     "description" : "",
     "blender" : (2, 80, 0),
@@ -39,7 +40,7 @@ bl_info = {
 
 import bpy
 
-from .matchMultiObject import *
+from .GZ_MatchTransforms import *
 
 
 

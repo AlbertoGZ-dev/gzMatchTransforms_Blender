@@ -12,17 +12,19 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 '''
-MatchTransforms MultiObject
+GZ_MatchTransforms
 
-Description: Match MultiObject makes match transformations on multiple 
-objects by paired objects given a first selection list for the origin 
-objects and second selection list to target objects.
+Description: GZ_MatchTransforms (A.K.A matchMultiObject) 
+makes match transformations on multiple objects by paired 
+objects given a first selection list for the origin objects 
+and second selection list to target objects.
 
 Author: AlbertoGZ
 albertogzonline@gmail.com
 https://github.com/albertogz-dev
 
 '''
+
 
 
 import bpy
@@ -51,7 +53,7 @@ from bpy.types import (Panel,
     
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 class mainPanel(Panel):
-    bl_label = "MatchTransforms MultiObject -- by AlbertoGZ"
+    bl_label = "GZ_MatchTransforms -- by AlbertoGZ"
     bl_idname = "SCENE_PT_layout"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
@@ -211,7 +213,7 @@ class aboutBtn(Operator):
         return bool(True)
 
     def invoke(self, context, event):
-        return showMessageBox('MatchTransforms MultiObject v0.1', 'by AlbertoGZ', 'github.com / albertogz-dev', 'INFO')
+        return showMessageBox('GZ_MatchTransforms v0.1.0', 'by AlbertoGZ', 'github.com / albertogz-dev', 'INFO')
         
     def execute(self, context):
        #      
