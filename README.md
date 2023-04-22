@@ -1,4 +1,4 @@
-# Match MultiObject for Blender
+# GZ_MatchTransforms for Blender
 Match MultiObject makes match transformations on multiple objects by paired objects given a first selection list for the origin objects and second selection list to target objects. 
 
 <img src="https://github.com/AlbertoGZ-dev/matchMultiObject_Blender/blob/master/matchMultiObject.png"></img>
