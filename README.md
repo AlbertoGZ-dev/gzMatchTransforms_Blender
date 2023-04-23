@@ -13,6 +13,6 @@ GZ_MatchTransforms (A.K.A matchMultiObject) is a tool for Blender to do match tr
 
 1. Download zip file from <a href="https://github.com/AlbertoGZ-dev/GZ_MatchTransforms/archive/refs/heads/master.zip">here</a>:
 
-2. Go to Blender Preferences, Add-ons section, just click on Install button then find and load matchMultiObject.zip file.
+2. Go to Blender Preferences, Add-ons section, just click on Install button then find and load *GZ_MatchTransforms.zip* file.
 
 3. Filter by Community then activate the Add-on.
