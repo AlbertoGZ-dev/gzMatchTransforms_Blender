@@ -11,7 +11,7 @@ gzMatchTransforms for Blender is a tool to do match transformations on multiple 
 
 #### Manual installation
 
-1. Download zip file from <a href="https://github.com/AlbertoGZ-dev/gzMatchTransforms/archive/refs/heads/master.zip">here</a>:
+1. Download zip file from <a href="https://github.com/AlbertoGZ-dev/gzMatchTransforms_Blender/releases">here</a>:
 
 2. Go to Blender Preferences, Add-ons section, just click on Install button then find and load *gzMatchTransforms.zip* file.
 
