@@ -1,7 +1,7 @@
 # gzMatchTransforms for Blender
 gzMatchTransforms for Blender is a tool to do match transformations on multiple objects at same time by paired objects given a first selection list for the origin objects and second selection list to target objects. 
 
-<img src="https://github.com/AlbertoGZ-dev/gzMatchTransforms_Blender/blob/master/docs/gzMatchTransforms_showcase.png"></img>
+<img src="https://github.com/AlbertoGZ-dev/gzMatchTransforms_Blender/blob/master/docs/gzMatchTransforms_showcase.mp4"></img>
 
 <video width="1280" height="720" controls>
   <source src="movie.mp4" type="video/mp4">
