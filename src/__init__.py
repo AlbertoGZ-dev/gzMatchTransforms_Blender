@@ -12,12 +12,12 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 '''
-GZ_MatchTransforms
+gzMatchTransforms
 
-Description: GZ_MatchTransforms (A.K.A matchMultiObject) 
-makes match transformations on multiple objects by paired 
-objects given a first selection list for the origin objects 
-and second selection list to target objects.
+Description: gzMatchTransforms for Blender makes 
+match transformations on multiple objects at same time 
+by paired objects given a first selection list for the 
+origin objects and second selection list to target objects.
 
 Author: AlbertoGZ
 albertogzonline@gmail.com
@@ -27,7 +27,7 @@ https://github.com/albertogz-dev
 
 
 bl_info = {
-    "name" : "GZ_MatchTransforms -- by AlbertoGZ",
+    "name" : "gzMatchTransforms -- by AlbertoGZ",
     "author" : "AlbertoGZ",
     "description" : "",
     "blender" : (2, 80, 0),
