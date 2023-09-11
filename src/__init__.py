@@ -40,7 +40,7 @@ bl_info = {
 
 import bpy
 
-from .GZ_MatchTransforms import *
+from .gzMatchTransforms import *
 
 
 
